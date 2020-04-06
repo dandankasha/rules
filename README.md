@@ -1,0 +1,3 @@
+# rules
+- Quantumult X
+- Shadowrocket
