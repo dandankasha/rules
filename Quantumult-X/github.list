@@ -1,0 +1,11 @@
+host-suffix, git.io, github
+host-suffix, github.blog, github
+host-suffix, github.com, github
+host-suffix, github.community, github
+host-suffix, github.io, github
+host-suffix, githubapp.com, github
+host-suffix, githubassets.com, github
+host-suffix, githubstatus.com, github
+host-suffix, githubusercontent.com, github
+host, github-avatars.oss-cn-hongkong.aliyuncs.com, github
+host-suffix, atom.io, github

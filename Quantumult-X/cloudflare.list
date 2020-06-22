@@ -1,0 +1,12 @@
+host-suffix, cloudflare.com, cloudflare
+host-suffix, cloudflare-dns.com, cloudflare
+host-suffix, cloudflare-ipfs.com, cloudflare
+host-suffix, cloudflareapps.com, cloudflare
+host-suffix, cloudflareinsights.com, cloudflare
+host-suffix, cloudflaressl.com, cloudflare
+host-suffix, cloudflarestatus.com, cloudflare
+host-suffix, cloudflarestream.com, cloudflare
+host-suffix, trycloudflare.com, cloudflare
+host-suffix, workers.dev, cloudflare
+host-suffix, one.one.one, cloudflare
+host-suffix, videodelivery.net, cloudflare
