@@ -76,6 +76,7 @@ host-suffix, haskellstack.org, category-dev
 host-suffix, stackage.org, category-dev
 host-suffix, brew.sh, category-dev
 host-suffix, ius.io, category-dev
+host-suffix, java, category-dev
 host-suffix, java.com, category-dev
 host-suffix, java.net, category-dev
 host-suffix, jenkins.io, category-dev

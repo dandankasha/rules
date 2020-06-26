@@ -1,3 +1,11 @@
+host-suffix, microsoft, microsoft
+host-suffix, azure, microsoft
+host-suffix, bing, microsoft
+host-suffix, hotmail, microsoft
+host-suffix, office, microsoft
+host-suffix, skype, microsoft
+host-suffix, windows, microsoft
+host-suffix, xbox, microsoft
 host-suffix, 1drv.com, microsoft
 host-suffix, 1drv.ms, microsoft
 host-suffix, aka.ms, microsoft

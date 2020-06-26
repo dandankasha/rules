@@ -1,3 +1,4 @@
+host-suffix, oracle, oracle
 host-suffix, oracle.com, oracle
 host-suffix, oraclecloud.com, oracle
 host-suffix, oraclefoundation.org, oracle
@@ -10,5 +11,6 @@ host-suffix, sun.com, oracle
 host-suffix, addthis.com, oracle
 host-suffix, addthiscdn.com, oracle
 host-suffix, addthisedge.com, oracle
+host-suffix, java, oracle
 host-suffix, java.com, oracle
 host-suffix, java.net, oracle

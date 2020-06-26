@@ -1,2 +1,4 @@
+host-suffix, local, private
+host-suffix, localhost, private
 host-suffix, localhost.sec.qq.com, private
 host-suffix, localhost.ptlogin2.qq.com, private

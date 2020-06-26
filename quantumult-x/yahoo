@@ -1,3 +1,4 @@
+host-suffix, yahoo, yahoo
 host-suffix, myguide.hk, yahoo
 host-suffix, yahoo-news.com.hk, yahoo
 host-suffix, yahoo.ae, yahoo
@@ -145,6 +146,7 @@ host-suffix, yahooapis.com, yahoo
 host-suffix, yahoodns.net, yahoo
 host-suffix, yimg.com, yahoo
 host-suffix, ymail.com, yahoo
+host-suffix, flickr, yahoo
 host-suffix, flickr.com, yahoo
 host-suffix, flickr.net, yahoo
 host-suffix, staticflickr.com, yahoo

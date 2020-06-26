@@ -17,4 +17,5 @@ host-suffix, cloudfront.net, amazon
 host-suffix, elasticbeanstalk.com, amazon
 host-suffix, amazonvideo.com, amazon
 host-suffix, primevideo.com, amazon
+host-suffix, aws, amazon
 host-suffix, amazon-adsystem.com, amazon
