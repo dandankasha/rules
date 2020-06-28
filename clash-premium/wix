@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,wix.com
+  - DOMAIN-SUFFIX,wixmp.com
+  - DOMAIN-SUFFIX,wixsite.com
+  - DOMAIN-SUFFIX,wixstatic.com

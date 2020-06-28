@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 import requests
 
@@ -38,7 +39,7 @@ def data_parser_qx(domain_list, name):
         if item[0:5] == "full:":
             filter_list.append("host, " + item[5:] + ", " + name)
         elif item[0:] == "keyword:":
-            filter_list.append("host-keyword, " + item + ", " + name)
+            filter_list.append("host-keyword, " + item[8:] + ", " + name)
         else:
             filter_list.append("host-suffix, " + item + ", " + name)
     with open(name, "w", encoding="utf-8") as e:
@@ -48,7 +49,35 @@ def data_parser_qx(domain_list, name):
     os.chdir('../')
 
 
+def data_parser_clash_prem(domain_list, name):
+    print(name)
+    try:
+        os.mkdir("clash-premium")
+        os.chdir("clash-premium")
+    except FileExistsError:
+        os.chdir("clash-premium")
+    domain_list = [x for x in domain_list if x[0:6] != "regex:"]
+    filter_list = []
+    for item in domain_list:
+        if item[0:5] == "full:":
+            filter_list.append("DOMAIN," + item[5:])
+        elif item[0:] == "keyword:":
+            filter_list.append("DOMAIN-KEYWORD," + item[8:])
+        else:
+            filter_list.append("DOMAIN-SUFFIX," + item)
+    with open(name, "w", encoding="utf-8") as e:
+        e.write("payload:\n")
+        for item in filter_list:
+            print(item)
+            e.write("  - "+item+"\n")
+    os.chdir('../')
+
+
 if __name__ == '__main__':
+    app_name = sys.argv[1]
     for domain_file in json.loads(requests.get("https://api.github.com/repos/v2ray/domain-list-community/contents/data/").content.decode("utf-8")):
         domain_list = data_reader(domain_file["name"])
-        data_parser_qx(domain_list, domain_file["name"])
+        if app_name == "qx":
+            data_parser_qx(domain_list, domain_file["name"])
+        elif app_name == "clash-prem":
+            data_parser_clash_prem(domain_list, domain_file["name"])

@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,fox
+  - DOMAIN-SUFFIX,fox.com
+  - DOMAIN-SUFFIX,foxbusiness.com
+  - DOMAIN-SUFFIX,foxcorporation.com
+  - DOMAIN-SUFFIX,foxdcg.com
+  - DOMAIN-SUFFIX,foxdoua.com
+  - DOMAIN-SUFFIX,foxfdm.com
+  - DOMAIN-SUFFIX,foxinc.com
+  - DOMAIN-SUFFIX,foxneo.com
+  - DOMAIN-SUFFIX,foxneodigital.com
+  - DOMAIN-SUFFIX,foxnews.com
+  - DOMAIN-SUFFIX,fxnetwork.com
+  - DOMAIN,foxnewsplayer-a.akamaihd.net

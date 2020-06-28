@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,shopify.com
+  - DOMAIN-SUFFIX,shopify.dev
+  - DOMAIN-SUFFIX,shopifysvc.com
