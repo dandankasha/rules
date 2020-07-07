@@ -9,6 +9,7 @@ host-suffix, mojichina.com, geolocation-cn
 host-suffix, 0123456789.com, geolocation-cn
 host-suffix, 055110.com, geolocation-cn
 host-suffix, 05sun.com, geolocation-cn
+host-suffix, 0759job.com, geolocation-cn
 host-suffix, 100bt.com, geolocation-cn
 host-suffix, 100offer.com, geolocation-cn
 host-suffix, 11467.com, geolocation-cn
@@ -79,6 +80,7 @@ host-suffix, 51cto.com, geolocation-cn
 host-suffix, 51eshop.com, geolocation-cn
 host-suffix, 51hejia.com, geolocation-cn
 host-suffix, 51jingying.com, geolocation-cn
+host-suffix, 51sole.com, geolocation-cn
 host-suffix, 51wendang.com, geolocation-cn
 host-suffix, 51yes.com, geolocation-cn
 host-suffix, 5253.com, geolocation-cn
@@ -209,6 +211,7 @@ host-suffix, cebbank.com, geolocation-cn
 host-suffix, cecdc.com, geolocation-cn
 host-suffix, cecport.com, geolocation-cn
 host-suffix, ch.com, geolocation-cn
+host-suffix, chachaba.com, geolocation-cn
 host-suffix, changba.com, geolocation-cn
 host-suffix, chashebao.com, geolocation-cn
 host-suffix, chazhengla.com, geolocation-cn
@@ -235,6 +238,7 @@ host-suffix, chuansongme.com, geolocation-cn
 host-suffix, chushou.tv, geolocation-cn
 host-suffix, chuyu.me, geolocation-cn
 host-suffix, city8.com, geolocation-cn
+host-suffix, cjol.com, geolocation-cn
 host-suffix, clouddn.com, geolocation-cn
 host-suffix, cloudxns.com, geolocation-cn
 host-suffix, cmbchina.com, geolocation-cn
@@ -288,6 +292,7 @@ host-suffix, dd373.com, geolocation-cn
 host-suffix, ddooo.com, geolocation-cn
 host-suffix, dedecms.com, geolocation-cn
 host-suffix, develenv.com, geolocation-cn
+host-suffix, dgphospital.com, geolocation-cn
 host-suffix, dgtle.com, geolocation-cn
 host-suffix, dianchacha.com, geolocation-cn
 host-suffix, diandian.com, geolocation-cn
@@ -305,6 +310,7 @@ host-suffix, dockone.io, geolocation-cn
 host-suffix, dogedoge.com, geolocation-cn
 host-suffix, donews.com, geolocation-cn
 host-suffix, dongao.com, geolocation-cn
+host-suffix, dongguantoday.com, geolocation-cn
 host-suffix, dopa.com, geolocation-cn
 host-suffix, douban.com, geolocation-cn
 host-suffix, douban.fm, geolocation-cn
@@ -366,6 +372,9 @@ host-suffix, gameabc.com, geolocation-cn
 host-suffix, gamersky.com, geolocation-cn
 host-suffix, gaodun.com, geolocation-cn
 host-suffix, gaoshouyou.com, geolocation-cn
+host-suffix, gaoxiaojob.com, geolocation-cn
+host-suffix, gdjdxy.com, geolocation-cn
+host-suffix, gdrc.com, geolocation-cn
 host-suffix, geekpark.net, geolocation-cn
 host-suffix, geetest.com, geolocation-cn
 host-suffix, geilicdn.com, geolocation-cn
@@ -393,6 +402,7 @@ host-suffix, gucheng.com, geolocation-cn
 host-suffix, guigu.org, geolocation-cn
 host-suffix, guokr.com, geolocation-cn
 host-suffix, gupzs.com, geolocation-cn
+host-suffix, gushiwen.org, geolocation-cn
 host-suffix, guzhangting.com, geolocation-cn
 host-suffix, gwdang.com, geolocation-cn
 host-suffix, gxairlines.com, geolocation-cn
@@ -403,6 +413,7 @@ host-suffix, hack520.com, geolocation-cn
 host-suffix, hackhome.com, geolocation-cn
 host-suffix, haishun.com, geolocation-cn
 host-suffix, hanboshi.com, geolocation-cn
+host-suffix, handanjob.com, geolocation-cn
 host-suffix, hao123.com, geolocation-cn
 host-suffix, hao123img.com, geolocation-cn
 host-suffix, haote.com, geolocation-cn
@@ -418,6 +429,7 @@ host-suffix, hiyd.com, geolocation-cn
 host-suffix, hktheone.com, geolocation-cn
 host-suffix, hn-cbec.com, geolocation-cn
 host-suffix, hnair.com, geolocation-cn
+host-suffix, hnrcsc.com, geolocation-cn
 host-suffix, hntv.tv, geolocation-cn
 host-suffix, hnyuyuhui.com, geolocation-cn
 host-suffix, hollycrm.com, geolocation-cn
@@ -505,6 +517,8 @@ host-suffix, jiuzhilan.com, geolocation-cn
 host-suffix, jj20.com, geolocation-cn
 host-suffix, jjwxc.net, geolocation-cn
 host-suffix, jmstatic.com, geolocation-cn
+host-suffix, job910.com, geolocation-cn
+host-suffix, jobjm.com, geolocation-cn
 host-suffix, jsbc.com, geolocation-cn
 host-suffix, jsrdgg.com, geolocation-cn
 host-suffix, jstv.com, geolocation-cn
@@ -576,6 +590,7 @@ host-suffix, linkvans.com, geolocation-cn
 host-suffix, linuxidc.com, geolocation-cn
 host-suffix, liulanqi.net, geolocation-cn
 host-suffix, liuxiaoer.com, geolocation-cn
+host-suffix, live800.com, geolocation-cn
 host-suffix, lixinger.com, geolocation-cn
 host-suffix, lkkbrand.com, geolocation-cn
 host-suffix, longhoo.net, geolocation-cn
@@ -742,8 +757,10 @@ host-suffix, sencdn.com, geolocation-cn
 host-suffix, seniverse.com, geolocation-cn
 host-suffix, senlinjimore.com, geolocation-cn
 host-suffix, sgamer.com, geolocation-cn
+host-suffix, shanghairc.com, geolocation-cn
 host-suffix, shangzhibo.tv, geolocation-cn
 host-suffix, sharejs.com, geolocation-cn
+host-suffix, shengdaosoft.com, geolocation-cn
 host-suffix, shenmayouxi.com, geolocation-cn
 host-suffix, sheui.com, geolocation-cn
 host-suffix, shijiexia.com, geolocation-cn
@@ -779,6 +796,7 @@ host-suffix, starbaby.cc, geolocation-cn
 host-suffix, starbaby.com, geolocation-cn
 host-suffix, staticfile.org, geolocation-cn
 host-suffix, stockstar.com, geolocation-cn
+host-suffix, sun0769.com, geolocation-cn
 host-suffix, sunrtb.com, geolocation-cn
 host-suffix, supermap.com, geolocation-cn
 host-suffix, supermapcloud.com, geolocation-cn
@@ -863,6 +881,7 @@ host-suffix, weixing.com, geolocation-cn
 host-suffix, weiyangx.com, geolocation-cn
 host-suffix, welltrend-edu.com, geolocation-cn
 host-suffix, wenjuan.com, geolocation-cn
+host-suffix, wicresoft.com, geolocation-cn
 host-suffix, win007.com, geolocation-cn
 host-suffix, win8.net, geolocation-cn
 host-suffix, windows10zj.com, geolocation-cn
@@ -947,6 +966,7 @@ host-suffix, yiwan.com, geolocation-cn
 host-suffix, yixi.tv, geolocation-cn
 host-suffix, yizhibo.com, geolocation-cn
 host-suffix, yjbys.com, geolocation-cn
+host-suffix, ynhr.com, geolocation-cn
 host-suffix, yocajr.com, geolocation-cn
 host-suffix, youboy.com, geolocation-cn
 host-suffix, youjiao.com, geolocation-cn
@@ -998,6 +1018,7 @@ host-suffix, zhibo8.cc, geolocation-cn
 host-suffix, zhidx.com, geolocation-cn
 host-suffix, zhipin.com, geolocation-cn
 host-suffix, zhiziyun.com, geolocation-cn
+host-suffix, zhongkao.com, geolocation-cn
 host-suffix, zhuangjiba.com, geolocation-cn
 host-suffix, zhuanyewanjia.com, geolocation-cn
 host-suffix, zhuayoukong.com, geolocation-cn
@@ -1515,6 +1536,9 @@ host-suffix, wn.pos.baidu.com, geolocation-cn
 host-suffix, znsv.baidu.com, geolocation-cn
 host-suffix, zz.bdstatic.com, geolocation-cn
 host-suffix, zzy1.quyaoya.com, geolocation-cn
+host-suffix, zuoyebang.cc, geolocation-cn
+host-suffix, zuoyebang.com, geolocation-cn
+host-suffix, zybang.com, geolocation-cn
 host-suffix, acg.tv, geolocation-cn
 host-suffix, acgvideo.com, geolocation-cn
 host-suffix, b23.tv, geolocation-cn
@@ -1641,9 +1665,10 @@ host-suffix, luojilab.com, geolocation-cn
 host-suffix, mogoo.com, geolocation-cn
 host-suffix, sao.cn, geolocation-cn
 host-suffix, saolife.com, geolocation-cn
-host-suffix, douyu.tv, geolocation-cn
 host-suffix, douyu.com, geolocation-cn
+host-suffix, douyu.tv, geolocation-cn
 host-suffix, douyucdn.cn, geolocation-cn
+host-suffix, douyucdn2.cn, geolocation-cn
 host-suffix, douyuscdn.com, geolocation-cn
 host-suffix, douyutv.com, geolocation-cn
 host-suffix, ele.me, geolocation-cn
@@ -2175,10 +2200,9 @@ host-suffix, 88cdn.com, geolocation-cn
 host-suffix, sandai.net, geolocation-cn
 host-suffix, thunderurl.com, geolocation-cn
 host-suffix, xunlei.com, geolocation-cn
-host-suffix, ynet.com.cn, geolocation-cn
-host-suffix, ynet.com, geolocation-cn
-host-suffix, 0880.com, geolocation-cn
 host-suffix, ynet.cn, geolocation-cn
+host-suffix, ynet.com, geolocation-cn
+host-suffix, ynet.com.cn, geolocation-cn
 host-suffix, kumiao.com, geolocation-cn
 host-suffix, youku.com, geolocation-cn
 host-suffix, ykimg.com, geolocation-cn

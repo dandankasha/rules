@@ -25,8 +25,9 @@ host-suffix, dartpad.dev, category-dev
 host-suffix, debian.org, category-dev
 host-suffix, dotdeb.org, category-dev
 host-suffix, deno.land, category-dev
-host-suffix, docker.com, category-dev
 host-suffix, compose-spec.io, category-dev
+host-suffix, docker.com, category-dev
+host-suffix, docker.io, category-dev
 host-suffix, elixir-lang.org, category-dev
 host-suffix, elrepo.org, category-dev
 host-suffix, erlang.org, category-dev
@@ -71,6 +72,13 @@ host-suffix, godoc.org, category-dev
 host-suffix, golang.com, category-dev
 host-suffix, golang.net, category-dev
 host-suffix, golang.org, category-dev
+host-suffix, consul.io, category-dev
+host-suffix, hashicorp.com, category-dev
+host-suffix, nomadproject.io, category-dev
+host-suffix, packer.io, category-dev
+host-suffix, terraform.io, category-dev
+host-suffix, vagrantup.com, category-dev
+host-suffix, vaultproject.io, category-dev
 host-suffix, haskell.org, category-dev
 host-suffix, haskellstack.org, category-dev
 host-suffix, stackage.org, category-dev
@@ -141,6 +149,7 @@ host-suffix, readthedocs.com, category-dev
 host-suffix, readthedocs.io, category-dev
 host-suffix, readthedocs.org, category-dev
 host-suffix, redis.io, category-dev
+host-suffix, redislabs.com, category-dev
 host-suffix, remirepo.net, category-dev
 host-suffix, rpmfusion.org, category-dev
 host-suffix, ruby-lang.org, category-dev
@@ -178,7 +187,6 @@ host-suffix, unityads.unitychina.cn, category-dev
 host-suffix, unpkg.com, category-dev
 host-suffix, v8.dev, category-dev
 host-suffix, v8project.org, category-dev
-host-suffix, vagrantup.com, category-dev
 host-suffix, vim.org, category-dev
 host-suffix, wireshark.org, category-dev
 host-suffix, x.org, category-dev

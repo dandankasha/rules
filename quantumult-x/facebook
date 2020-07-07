@@ -1,4 +1,3 @@
-host-suffix, cdninstagram.com, facebook
 host-suffix, facebook.br, facebook
 host-suffix, facebook.com, facebook
 host-suffix, facebook.design, facebook
@@ -11,8 +10,6 @@ host-suffix, fb.com, facebook
 host-suffix, fb.me, facebook
 host-suffix, fbcdn.net, facebook
 host-suffix, fbsbx.com, facebook
-host-suffix, instagram.com, facebook
-host-suffix, instagram-press.com, facebook
 host-suffix, m.me, facebook
 host-suffix, messenger.com, facebook
 host-suffix, oculus.com, facebook
@@ -22,3 +19,8 @@ host-suffix, thefacebook.com, facebook
 host-suffix, whatsapp.com, facebook
 host-suffix, whatsapp.net, facebook
 host, fbcdn-a.akamaihd.net, facebook
+host-suffix, cdninstagram.com, facebook
+host-suffix, igcdn.com, facebook
+host-suffix, igsonar.com, facebook
+host-suffix, instagram.com, facebook
+host-suffix, instagram-press.com, facebook

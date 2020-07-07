@@ -75,6 +75,14 @@ def data_parser_clash_prem(domain_list, name):
 
 if __name__ == '__main__':
     app_name = sys.argv[1]
+    if app_name == "qx":
+        path_name = "quantumult-x/"
+        if os.path.exists(path_name):
+            [os.remove(path_name+x) for x in os.listdir(path_name)]
+    elif app_name == "clash-prem":
+        path_name = "clash-premium/"
+        if os.path.exists(path_name):
+            [os.remove(path_name+x) for x in os.listdir(path_name)]
     for domain_file in json.loads(requests.get("https://api.github.com/repos/v2ray/domain-list-community/contents/data/").content.decode("utf-8")):
         domain_list = data_reader(domain_file["name"])
         if app_name == "qx":
