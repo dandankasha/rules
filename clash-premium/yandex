@@ -1,8 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,yandex.com
-  - DOMAIN-SUFFIX,yandex.net
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,yandex.st
-  - DOMAIN-SUFFIX,yandexcloud.net
-  - DOMAIN-SUFFIX,yastatic.net
-  - DOMAIN-SUFFIX,yandex

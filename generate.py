@@ -65,7 +65,7 @@ def data_parser_clash_prem(domain_list, name):
             filter_list.append("DOMAIN-KEYWORD," + item[8:])
         else:
             filter_list.append("DOMAIN-SUFFIX," + item)
-    with open(name, "w", encoding="utf-8") as e:
+    with open(name + ".yaml", "w", encoding="utf-8") as e:
         e.write("payload:\n")
         for item in filter_list:
             print(item)
