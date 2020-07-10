@@ -31,4 +31,11 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,aws
+  - DOMAIN-SUFFIX,amazon
+  - DOMAIN-SUFFIX,imdb
+  - DOMAIN-SUFFIX,kindle
+  - DOMAIN-SUFFIX,xn--cckwcxetd
+  - DOMAIN-SUFFIX,xn--jlq480n2rg
+  - DOMAIN-SUFFIX,yamaxun
+  - DOMAIN-SUFFIX,zappos
   - DOMAIN-SUFFIX,amazon-adsystem.com

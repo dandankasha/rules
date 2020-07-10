@@ -1,9 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,baidu
   - DOMAIN-SUFFIX,91.com
   - DOMAIN-SUFFIX,aipage.com
   - DOMAIN-SUFFIX,apollo.auto
   - DOMAIN-SUFFIX,baidu.cn
   - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,baidu.com.cn
   - DOMAIN-SUFFIX,baidubce.com
   - DOMAIN-SUFFIX,baiducontent.com
   - DOMAIN-SUFFIX,baidupcs.com

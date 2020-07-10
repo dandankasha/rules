@@ -452,6 +452,7 @@ payload:
   - DOMAIN-SUFFIX,voxfieldguide.com
   - DOMAIN-SUFFIX,voxmedia.com
   - DOMAIN-SUFFIX,voxops.net
+  - DOMAIN-SUFFIX,warroom.org
   - DOMAIN-SUFFIX,washingtonpost.com
   - DOMAIN-SUFFIX,watchout.tw
   - DOMAIN-SUFFIX,waa.tw
@@ -906,6 +907,13 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,aws
+  - DOMAIN-SUFFIX,amazon
+  - DOMAIN-SUFFIX,imdb
+  - DOMAIN-SUFFIX,kindle
+  - DOMAIN-SUFFIX,xn--cckwcxetd
+  - DOMAIN-SUFFIX,xn--jlq480n2rg
+  - DOMAIN-SUFFIX,yamaxun
+  - DOMAIN-SUFFIX,zappos
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,apple
   - DOMAIN-SUFFIX,apple.com
@@ -1410,8 +1418,19 @@ payload:
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,godaddy
-  - DOMAIN-SUFFIX,google
+  - DOMAIN-SUFFIX,and
+  - DOMAIN-SUFFIX,chrome
+  - DOMAIN-SUFFIX,dclk
+  - DOMAIN-SUFFIX,gbiz
+  - DOMAIN-SUFFIX,gle
+  - DOMAIN-SUFFIX,gmail
+  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goog
+  - DOMAIN-SUFFIX,google
+  - DOMAIN-SUFFIX,guge
+  - DOMAIN-SUFFIX,hangout
+  - DOMAIN-SUFFIX,nexus
+  - DOMAIN-SUFFIX,xn--qcka1pmc
   - DOMAIN-SUFFIX,google.ad
   - DOMAIN-SUFFIX,google.ae
   - DOMAIN-SUFFIX,google.al
@@ -2021,6 +2040,38 @@ payload:
   - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,s-bluemix.net
   - DOMAIN-SUFFIX,s81c.com
+  - DOMAIN-SUFFIX,intel
+  - DOMAIN-SUFFIX,intc.com
+  - DOMAIN-SUFFIX,intel.ca
+  - DOMAIN-SUFFIX,intel.cn
+  - DOMAIN-SUFFIX,intel.co.id
+  - DOMAIN-SUFFIX,intel.co.il
+  - DOMAIN-SUFFIX,intel.co.jp
+  - DOMAIN-SUFFIX,intel.co.kr
+  - DOMAIN-SUFFIX,intel.co.uk
+  - DOMAIN-SUFFIX,intel.co.za
+  - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,intel.com.au
+  - DOMAIN-SUFFIX,intel.com.br
+  - DOMAIN-SUFFIX,intel.com.tr
+  - DOMAIN-SUFFIX,intel.com.tw
+  - DOMAIN-SUFFIX,intel.de
+  - DOMAIN-SUFFIX,intel.es
+  - DOMAIN-SUFFIX,intel.eu
+  - DOMAIN-SUFFIX,intel.fr
+  - DOMAIN-SUFFIX,intel.ie
+  - DOMAIN-SUFFIX,intel.in
+  - DOMAIN-SUFFIX,intel.it
+  - DOMAIN-SUFFIX,intel.la
+  - DOMAIN-SUFFIX,intel.me
+  - DOMAIN-SUFFIX,intel.ph
+  - DOMAIN-SUFFIX,intel.pl
+  - DOMAIN-SUFFIX,intel.ru
+  - DOMAIN-SUFFIX,intel.se
+  - DOMAIN-SUFFIX,intel.sg
+  - DOMAIN-SUFFIX,intel.vn
+  - DOMAIN-SUFFIX,intelrealsense.com
+  - DOMAIN-SUFFIX,researchintel.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,microsoft
@@ -2217,13 +2268,46 @@ payload:
   - DOMAIN-SUFFIX,rustup.rs
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,docs.rs
-  - DOMAIN-SUFFIX,geforce.com
-  - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,nvidia.co.jp
+  - DOMAIN-SUFFIX,geforce.cn
   - DOMAIN-SUFFIX,geforce.co.kr
-  - DOMAIN-SUFFIX,nvidia.co.kr
+  - DOMAIN-SUFFIX,geforce.co.uk
+  - DOMAIN-SUFFIX,geforce.com
   - DOMAIN-SUFFIX,geforce.com.tw
+  - DOMAIN-SUFFIX,gputechconf.cn
+  - DOMAIN-SUFFIX,gputechconf.co.kr
+  - DOMAIN-SUFFIX,gputechconf.com
+  - DOMAIN-SUFFIX,gputechconf.com.au
+  - DOMAIN-SUFFIX,gputechconf.com.tw
+  - DOMAIN-SUFFIX,gputechconf.eu
+  - DOMAIN-SUFFIX,gputechconf.in
+  - DOMAIN-SUFFIX,gputechconf.jp
+  - DOMAIN-SUFFIX,nvidia.asia
+  - DOMAIN-SUFFIX,nvidia.be
+  - DOMAIN-SUFFIX,nvidia.ch
+  - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,nvidia.co.jp
+  - DOMAIN-SUFFIX,nvidia.co.kr
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidia.com.au
+  - DOMAIN-SUFFIX,nvidia.com.br
+  - DOMAIN-SUFFIX,nvidia.com.tr
   - DOMAIN-SUFFIX,nvidia.com.tw
+  - DOMAIN-SUFFIX,nvidia.cz
+  - DOMAIN-SUFFIX,nvidia.de
+  - DOMAIN-SUFFIX,nvidia.dk
+  - DOMAIN-SUFFIX,nvidia.es
+  - DOMAIN-SUFFIX,nvidia.eu
+  - DOMAIN-SUFFIX,nvidia.fi
+  - DOMAIN-SUFFIX,nvidia.fr
+  - DOMAIN-SUFFIX,nvidia.it
+  - DOMAIN-SUFFIX,nvidia.lu
+  - DOMAIN-SUFFIX,nvidia.nl
+  - DOMAIN-SUFFIX,nvidia.no
+  - DOMAIN-SUFFIX,nvidia.pl
+  - DOMAIN-SUFFIX,nvidia.ro
+  - DOMAIN-SUFFIX,nvidia.ru
+  - DOMAIN-SUFFIX,nvidia.se
+  - DOMAIN-SUFFIX,shotwithgeforce.com
   - DOMAIN-SUFFIX,oracle
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
@@ -2779,6 +2863,8 @@ payload:
   - DOMAIN,paper-attachments.s3.amazonaws.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,duck.com
+  - DOMAIN-SUFFIX,ddg.gg
+  - DOMAIN-SUFFIX,spreadprivacy.com
   - DOMAIN-SUFFIX,entermediadb.net
   - DOMAIN-SUFFIX,entermediadb.org
   - DOMAIN-SUFFIX,evernote.com
@@ -2891,7 +2977,9 @@ payload:
   - DOMAIN-SUFFIX,shopify.dev
   - DOMAIN-SUFFIX,shopifysvc.com
   - DOMAIN-SUFFIX,shorturl.at
+  - DOMAIN-SUFFIX,sourceforge.com
   - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,sf.net
   - DOMAIN-SUFFIX,fsdn.com
   - DOMAIN-SUFFIX,startpage.com
   - DOMAIN-SUFFIX,ixquick.com
@@ -3198,6 +3286,7 @@ payload:
   - DOMAIN-SUFFIX,ebayprivacycenter.com
   - DOMAIN-SUFFIX,ebayrtm.com
   - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,nike
   - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,nike.com.br
   - DOMAIN-SUFFIX,nike.com.hk
@@ -3387,16 +3476,20 @@ payload:
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
-  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+  - DOMAIN-SUFFIX,steampowered.com.8686c.com
+  - DOMAIN-SUFFIX,steamstatic.com.8686c.com
+  - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musical.ly
@@ -3490,6 +3583,32 @@ payload:
   - DOMAIN-SUFFIX,hkedcity.net
   - DOMAIN-SUFFIX,hkreadingcity.net
   - DOMAIN-SUFFIX,huanghuagang.org
+  - DOMAIN-SUFFIX,mcd
+  - DOMAIN-SUFFIX,mcdonalds
+  - DOMAIN-SUFFIX,4008-517-517.cn
+  - DOMAIN-SUFFIX,aboutmcdonalds.com
+  - DOMAIN-SUFFIX,happymeal.co.nz
+  - DOMAIN-SUFFIX,happymeal.com.au
+  - DOMAIN-SUFFIX,mcd.com
+  - DOMAIN-SUFFIX,mcdelivery.co.id
+  - DOMAIN-SUFFIX,mcdelivery.co.kr
+  - DOMAIN-SUFFIX,mcdelivery.com.au
+  - DOMAIN-SUFFIX,mcdelivery.com.my
+  - DOMAIN-SUFFIX,mcdelivery.com.sg
+  - DOMAIN-SUFFIX,mcdelivery.com.tw
+  - DOMAIN-SUFFIX,mcdindonesia.com
+  - DOMAIN-SUFFIX,mcdonalds.ca
+  - DOMAIN-SUFFIX,mcdonalds.co.uk
+  - DOMAIN-SUFFIX,mcdonalds.com
+  - DOMAIN-SUFFIX,mcdonalds.com.hk
+  - DOMAIN-SUFFIX,mcdonalds.hk
+  - DOMAIN-SUFFIX,mcdonalds.it
+  - DOMAIN-SUFFIX,mcdonalds.no
+  - DOMAIN-SUFFIX,mcdonalds.se
+  - DOMAIN-SUFFIX,mcdonaldsarabia.com
+  - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+  - DOMAIN-SUFFIX,mcdonaldsparties.com.au
+  - DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
   - DOMAIN-SUFFIX,rarbg.me
   - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,rarbg.is

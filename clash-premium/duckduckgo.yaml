@@ -1,3 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,duck.com
+  - DOMAIN-SUFFIX,ddg.gg
+  - DOMAIN-SUFFIX,spreadprivacy.com
