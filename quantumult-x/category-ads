@@ -31,6 +31,7 @@ host-suffix, cdn.banclip.com, category-ads
 host-suffix, cdn.tsyndicate.com, category-ads
 host, apilog-web.acfun.cn, category-ads
 host-suffix, adcolony.com, category-ads
+host-suffix, adjust.com, category-ads
 host-suffix, a.alimama.cn, category-ads
 host-suffix, acjs.aliyun.com, category-ads
 host-suffix, adash.m.taobao.com, category-ads
@@ -125,6 +126,9 @@ host-suffix, iad.apple.com, category-ads
 host-suffix, qwapi.com, category-ads
 host-suffix, applovin.com, category-ads
 host-suffix, applvn.com, category-ads
+host-suffix, atom-data.io, category-ads
+host-suffix, analytics-data.io, category-ads
+host-suffix, ironbeast.io, category-ads
 host-suffix, a.baidu.com, category-ads
 host-suffix, ad.duapps.com, category-ads
 host-suffix, ad.player.baidu.com, category-ads
@@ -297,6 +301,7 @@ host-suffix, ladsp.com, category-ads
 host-suffix, microad.co.jp, category-ads
 host-suffix, microad.jp, category-ads
 host-suffix, socdm.com, category-ads
+host-suffix, emogi.com, category-ads
 host-suffix, data.flurry.com, category-ads
 host-suffix, admob.com, category-ads
 host-suffix, adsense.com, category-ads
@@ -353,6 +358,7 @@ host-suffix, stat.m.jd.com, category-ads
 host-suffix, img-x.jd.com, category-ads
 host, log-sdk.gifshow.com, category-ads
 host, wlog.kuaishou.com, category-ads
+host-suffix, leanplum.com, category-ads
 host-suffix, api.game.letvstore.com, category-ads
 host-suffix, ark.letv.com, category-ads
 host-suffix, dc.letv.com, category-ads
@@ -372,6 +378,9 @@ host-suffix, decide.mixpanel.com, category-ads
 host-suffix, mopub.com, category-ads
 host-suffix, evt.mxplay.com, category-ads
 host-suffix, g.163.com, category-ads
+host-suffix, ogury.com, category-ads
+host-suffix, presage.io, category-ads
+host-suffix, ogury.co, category-ads
 host-suffix, onesignal.com, category-ads
 host-suffix, ads.pubmatic.com, category-ads
 host-suffix, cdn.segment.com, category-ads
@@ -474,6 +483,10 @@ host-suffix, uranus.sogou.com, category-ads
 host-suffix, v2.reachmax.cn, category-ads
 host, e8aeb8bbdbbd7.cdn.sohucs.com, category-ads
 host, 643108e7617ef.cdn.sohucs.com, category-ads
+host-suffix, supersonic.com, category-ads
+host-suffix, supersonicads.com, category-ads
+host-suffix, ssacdn.com, category-ads
+host-suffix, supersonicads-a.akamaihd.net, category-ads
 host-suffix, ssp.api.tappx.com, category-ads
 host-suffix, ad.qq.com, category-ads
 host-suffix, ad.qun.qq.com, category-ads
@@ -570,3 +583,5 @@ host-suffix, ykatr.youku.com, category-ads
 host-suffix, ykrec.youku.com, category-ads
 host-suffix, cvnad.com, category-ads
 host-suffix, iyoowi.com, category-ads
+host-suffix, zynga.com, category-ads
+host-suffix, zyngaplayersupport.com, category-ads

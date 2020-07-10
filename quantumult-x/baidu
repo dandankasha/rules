@@ -1,8 +1,10 @@
+host-suffix, baidu, baidu
 host-suffix, 91.com, baidu
 host-suffix, aipage.com, baidu
 host-suffix, apollo.auto, baidu
 host-suffix, baidu.cn, baidu
 host-suffix, baidu.com, baidu
+host-suffix, baidu.com.cn, baidu
 host-suffix, baidubce.com, baidu
 host-suffix, baiducontent.com, baidu
 host-suffix, baidupcs.com, baidu

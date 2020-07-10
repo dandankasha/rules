@@ -92,6 +92,9 @@ host-suffix, jetbrains.com, category-dev
 host-suffix, jetbrains.net, category-dev
 host-suffix, datalore.io, category-dev
 host-suffix, kotlinlang.org, category-dev
+host-suffix, jfrog.com, category-dev
+host-suffix, jfrog.org, category-dev
+host-suffix, bintray.com, category-dev
 host-suffix, jquery.com, category-dev
 host-suffix, jquerymobile.com, category-dev
 host-suffix, jqueryui.com, category-dev

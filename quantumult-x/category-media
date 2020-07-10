@@ -52,6 +52,7 @@ host-suffix, twnextdigital.com, category-media
 host-suffix, bbc.com, category-media
 host-suffix, bbc.co.uk, category-media
 host-suffix, bbci.co.uk, category-media
+host-suffix, bbgwatch.com, category-media
 host-suffix, boxun.com, category-media
 host-suffix, bowenpress.com, category-media
 host-suffix, breitbart.com, category-media
@@ -278,6 +279,7 @@ host-suffix, voxcreative.com, category-media
 host-suffix, voxfieldguide.com, category-media
 host-suffix, voxmedia.com, category-media
 host-suffix, voxops.net, category-media
+host-suffix, warroom.org, category-media
 host-suffix, washingtonpost.com, category-media
 host-suffix, watchout.tw, category-media
 host-suffix, waa.tw, category-media

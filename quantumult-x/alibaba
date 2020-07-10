@@ -1,3 +1,7 @@
+host-suffix, alibaba, alibaba
+host-suffix, alipay, alibaba
+host-suffix, taobao, alibaba
+host-suffix, tmall, alibaba
 host-suffix, 25pp.com, alibaba
 host-suffix, 56che.com, alibaba
 host-suffix, 95095.com, alibaba
@@ -242,6 +246,9 @@ host-suffix, dingtalk.net, alibaba
 host-suffix, dingtalkapps.com, alibaba
 host-suffix, laiwang.com, alibaba
 host-suffix, lwurl.to, alibaba
+host-suffix, ele.me, alibaba
+host-suffix, elemecdn.com, alibaba
+host-suffix, eleme.cn, alibaba
 host-suffix, teambition.com, alibaba
 host-suffix, teambition.net, alibaba
 host-suffix, teambitionapis.com, alibaba

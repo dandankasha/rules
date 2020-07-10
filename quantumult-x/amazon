@@ -30,4 +30,11 @@ host-suffix, elasticbeanstalk.com, amazon
 host-suffix, amazonvideo.com, amazon
 host-suffix, primevideo.com, amazon
 host-suffix, aws, amazon
+host-suffix, amazon, amazon
+host-suffix, imdb, amazon
+host-suffix, kindle, amazon
+host-suffix, xn--cckwcxetd, amazon
+host-suffix, xn--jlq480n2rg, amazon
+host-suffix, yamaxun, amazon
+host-suffix, zappos, amazon
 host-suffix, amazon-adsystem.com, amazon
