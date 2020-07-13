@@ -640,6 +640,8 @@ payload:
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
   - DOMAIN-SUFFIX,taylorandfrancis.com
+  - DOMAIN-SUFFIX,betterexplained.com
+  - DOMAIN-SUFFIX,brilliant.org
   - DOMAIN-SUFFIX,cern
   - DOMAIN-SUFFIX,ams02.space
   - DOMAIN-SUFFIX,cern.ch
@@ -648,11 +650,29 @@ payload:
   - DOMAIN-SUFFIX,ippog.org
   - DOMAIN-SUFFIX,linearcollider.org
   - DOMAIN,chinapower.csis.org
+  - DOMAIN-SUFFIX,code.org
+  - DOMAIN-SUFFIX,codecademy.com
+  - DOMAIN-SUFFIX,coursera-for-business.org
+  - DOMAIN-SUFFIX,coursera.community
+  - DOMAIN-SUFFIX,coursera.help
+  - DOMAIN-SUFFIX,coursera.org
   - DOMAIN-SUFFIX,edx.org
   - DOMAIN-SUFFIX,edx-cdn.org
+  - DOMAIN-SUFFIX,egghead.io
+  - DOMAIN-SUFFIX,khanacademy.org
+  - DOMAIN-SUFFIX,kastatic.org
   - DOMAIN-SUFFIX,knovel.com
+  - DOMAIN-SUFFIX,laracasts.com
+  - DOMAIN-SUFFIX,masterclass.com
+  - DOMAIN-SUFFIX,mzed.com
+  - DOMAIN-SUFFIX,sitepoint.com
+  - DOMAIN-SUFFIX,skillshare.com
   - DOMAIN-SUFFIX,ted.com
   - DOMAIN-SUFFIX,tedcdn.com
+  - DOMAIN-SUFFIX,udacity.com
+  - DOMAIN-SUFFIX,udemy.com
+  - DOMAIN-SUFFIX,udemycdn.com
+  - DOMAIN-SUFFIX,w3schools.com
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,amp.dev
   - DOMAIN-SUFFIX,ampproject.com
@@ -1387,8 +1407,159 @@ payload:
   - DOMAIN-SUFFIX,statuspage.io
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,trellocdn.com
+  - DOMAIN-SUFFIX,bmw
+  - DOMAIN-SUFFIX,bmw-abudhabi.com
+  - DOMAIN-SUFFIX,bmw-asia.com
+  - DOMAIN-SUFFIX,bmw-dubai.com
+  - DOMAIN-SUFFIX,bmw-ghana.com
+  - DOMAIN-SUFFIX,bmw-golfsport.com
+  - DOMAIN-SUFFIX,bmw-int1.com
+  - DOMAIN-SUFFIX,bmw-kuwait.com
+  - DOMAIN-SUFFIX,bmw-lebanon.com
+  - DOMAIN-SUFFIX,bmw-me.com
+  - DOMAIN-SUFFIX,bmw-motorsport.com
+  - DOMAIN-SUFFIX,bmw-nigeria.com
+  - DOMAIN-SUFFIX,bmw-oman.com
+  - DOMAIN-SUFFIX,bmw-pakistan.com
+  - DOMAIN-SUFFIX,bmw-pma.com.sg
+  - DOMAIN-SUFFIX,bmw-qatar.com
+  - DOMAIN-SUFFIX,bmw-saudiarabia.com
+  - DOMAIN-SUFFIX,bmw-special-sales.com
+  - DOMAIN-SUFFIX,bmw-yachtsport.com
+  - DOMAIN-SUFFIX,bmw.am
+  - DOMAIN-SUFFIX,bmw.bb
+  - DOMAIN-SUFFIX,bmw.bg
+  - DOMAIN-SUFFIX,bmw.bm
+  - DOMAIN-SUFFIX,bmw.bs
+  - DOMAIN-SUFFIX,bmw.by
+  - DOMAIN-SUFFIX,bmw.ca
+  - DOMAIN-SUFFIX,bmw.cc
+  - DOMAIN-SUFFIX,bmw.ch
+  - DOMAIN-SUFFIX,bmw.cl
+  - DOMAIN-SUFFIX,bmw.co.ao
+  - DOMAIN-SUFFIX,bmw.co.cr
+  - DOMAIN-SUFFIX,bmw.co.id
+  - DOMAIN-SUFFIX,bmw.co.jp
+  - DOMAIN-SUFFIX,bmw.co.nz
+  - DOMAIN-SUFFIX,bmw.com
+  - DOMAIN-SUFFIX,bmw.com.ar
+  - DOMAIN-SUFFIX,bmw.com.au
+  - DOMAIN-SUFFIX,bmw.com.bn
+  - DOMAIN-SUFFIX,bmw.com.cn
+  - DOMAIN-SUFFIX,bmw.com.kh
+  - DOMAIN-SUFFIX,bmw.com.mt
+  - DOMAIN-SUFFIX,bmw.com.my
+  - DOMAIN-SUFFIX,bmw.com.ph
+  - DOMAIN-SUFFIX,bmw.dk
+  - DOMAIN-SUFFIX,bmw.ee
+  - DOMAIN-SUFFIX,bmw.fi
+  - DOMAIN-SUFFIX,bmw.gr
+  - DOMAIN-SUFFIX,bmw.hn
+  - DOMAIN-SUFFIX,bmw.ht
+  - DOMAIN-SUFFIX,bmw.hu
+  - DOMAIN-SUFFIX,bmw.ie
+  - DOMAIN-SUFFIX,bmw.in
+  - DOMAIN-SUFFIX,bmw.lc
+  - DOMAIN-SUFFIX,bmw.lk
+  - DOMAIN-SUFFIX,bmw.lt
+  - DOMAIN-SUFFIX,bmw.lv
+  - DOMAIN-SUFFIX,bmw.ma
+  - DOMAIN-SUFFIX,bmw.mu
+  - DOMAIN-SUFFIX,bmw.no
+  - DOMAIN-SUFFIX,bmw.pl
+  - DOMAIN-SUFFIX,bmw.pt
+  - DOMAIN-SUFFIX,bmw.ro
+  - DOMAIN-SUFFIX,bmw.se
+  - DOMAIN-SUFFIX,bmw.si
+  - DOMAIN-SUFFIX,bmw.sk
+  - DOMAIN-SUFFIX,bmw.sn
+  - DOMAIN-SUFFIX,bmw.tt
+  - DOMAIN-SUFFIX,bmw.uz
+  - DOMAIN-SUFFIX,bmw.vn
+  - DOMAIN-SUFFIX,bmwbkk.de
+  - DOMAIN-SUFFIX,bmwgroup.com
+  - DOMAIN-SUFFIX,bmwhk.com
+  - DOMAIN-SUFFIX,bmwjamaica.com
+  - DOMAIN-SUFFIX,bmwlat.com
+  - DOMAIN-SUFFIX,bmwmyanmar.com
+  - DOMAIN-SUFFIX,mini.com
+  - DOMAIN-SUFFIX,canon
+  - DOMAIN-SUFFIX,c-ij.com
+  - DOMAIN-SUFFIX,canon-cee.com
+  - DOMAIN-SUFFIX,canon-cmos-sensors.com
+  - DOMAIN-SUFFIX,canon-cna.com
+  - DOMAIN-SUFFIX,canon-ebm.com.hk
+  - DOMAIN-SUFFIX,canon-emea.com
+  - DOMAIN-SUFFIX,canon-emirates.ae
+  - DOMAIN-SUFFIX,canon-europa.com
+  - DOMAIN-SUFFIX,canon-europe.com
+  - DOMAIN-SUFFIX,canon-me.com
+  - DOMAIN-SUFFIX,canon-ois.qa
+  - DOMAIN-SUFFIX,canon-se.com.tw
+  - DOMAIN-SUFFIX,canon.am
+  - DOMAIN-SUFFIX,canon.at
+  - DOMAIN-SUFFIX,canon.az
+  - DOMAIN-SUFFIX,canon.ba
+  - DOMAIN-SUFFIX,canon.be
+  - DOMAIN-SUFFIX,canon.bg
+  - DOMAIN-SUFFIX,canon.ca
+  - DOMAIN-SUFFIX,canon.ch
+  - DOMAIN-SUFFIX,canon.cn
+  - DOMAIN-SUFFIX,canon.co.il
+  - DOMAIN-SUFFIX,canon.co.uk
+  - DOMAIN-SUFFIX,canon.co.za
+  - DOMAIN-SUFFIX,canon.com
+  - DOMAIN-SUFFIX,canon.com.al
+  - DOMAIN-SUFFIX,canon.com.au
+  - DOMAIN-SUFFIX,canon.com.by
+  - DOMAIN-SUFFIX,canon.com.cn
+  - DOMAIN-SUFFIX,canon.com.cy
+  - DOMAIN-SUFFIX,canon.com.hk
+  - DOMAIN-SUFFIX,canon.com.mk
+  - DOMAIN-SUFFIX,canon.com.mt
+  - DOMAIN-SUFFIX,canon.com.my
+  - DOMAIN-SUFFIX,canon.com.tr
+  - DOMAIN-SUFFIX,canon.com.tw
+  - DOMAIN-SUFFIX,canon.cz
+  - DOMAIN-SUFFIX,canon.de
+  - DOMAIN-SUFFIX,canon.dk
+  - DOMAIN-SUFFIX,canon.ee
+  - DOMAIN-SUFFIX,canon.es
+  - DOMAIN-SUFFIX,canon.fi
+  - DOMAIN-SUFFIX,canon.fr
+  - DOMAIN-SUFFIX,canon.ge
+  - DOMAIN-SUFFIX,canon.gr
+  - DOMAIN-SUFFIX,canon.hr
+  - DOMAIN-SUFFIX,canon.hu
+  - DOMAIN-SUFFIX,canon.ie
+  - DOMAIN-SUFFIX,canon.it
+  - DOMAIN-SUFFIX,canon.kz
+  - DOMAIN-SUFFIX,canon.lt
+  - DOMAIN-SUFFIX,canon.lu
+  - DOMAIN-SUFFIX,canon.lv
+  - DOMAIN-SUFFIX,canon.me
+  - DOMAIN-SUFFIX,canon.net
+  - DOMAIN-SUFFIX,canon.nl
+  - DOMAIN-SUFFIX,canon.no
+  - DOMAIN-SUFFIX,canon.pl
+  - DOMAIN-SUFFIX,canon.pt
+  - DOMAIN-SUFFIX,canon.ro
+  - DOMAIN-SUFFIX,canon.rs
+  - DOMAIN-SUFFIX,canon.ru
+  - DOMAIN-SUFFIX,canon.se
+  - DOMAIN-SUFFIX,canon.si
+  - DOMAIN-SUFFIX,canon.sk
+  - DOMAIN-SUFFIX,canon.tj
+  - DOMAIN-SUFFIX,canon.ua
+  - DOMAIN-SUFFIX,canon.uz
+  - DOMAIN-SUFFIX,canonfoundation.org
+  - DOMAIN-SUFFIX,canonproprinters.com
   - DOMAIN-SUFFIX,cloudc.one
   - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,dell
+  - DOMAIN-SUFFIX,dell-brand.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,dellcdn.com
   - DOMAIN-SUFFIX,facebook.br
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.design
@@ -2468,6 +2639,7 @@ payload:
   - DOMAIN-SUFFIX,sonystoragemedia.co.jp
   - DOMAIN-SUFFIX,sonytc.co.jp
   - DOMAIN-SUFFIX,sovec.net
+  - DOMAIN-SUFFIX,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
@@ -3240,6 +3412,25 @@ payload:
   - DOMAIN-SUFFIX,telegram.org
   - DOMAIN-SUFFIX,telegram.dog
   - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,adidas.at
+  - DOMAIN-SUFFIX,adidas.be
+  - DOMAIN-SUFFIX,adidas.ch
+  - DOMAIN-SUFFIX,adidas.co.in
+  - DOMAIN-SUFFIX,adidas.co.uk
+  - DOMAIN-SUFFIX,adidas.com
+  - DOMAIN-SUFFIX,adidas.com.cn
+  - DOMAIN-SUFFIX,adidas.com.sa
+  - DOMAIN-SUFFIX,adidas.com.tw
+  - DOMAIN-SUFFIX,adidas.cz
+  - DOMAIN-SUFFIX,adidas.de
+  - DOMAIN-SUFFIX,adidas.dk
+  - DOMAIN-SUFFIX,adidas.hu
+  - DOMAIN-SUFFIX,adidas.ie
+  - DOMAIN-SUFFIX,adidas.it
+  - DOMAIN-SUFFIX,adidas.nl
+  - DOMAIN-SUFFIX,adidas.pl
+  - DOMAIN-SUFFIX,adidas.ru
+  - DOMAIN-SUFFIX,adidas.se
   - DOMAIN-SUFFIX,bbycastatic.ca
   - DOMAIN-SUFFIX,bbystatic.com
   - DOMAIN-SUFFIX,bestbuy-jobs.com
@@ -3286,6 +3477,13 @@ payload:
   - DOMAIN-SUFFIX,ebayprivacycenter.com
   - DOMAIN-SUFFIX,ebayrtm.com
   - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,gucci
+  - DOMAIN-SUFFIX,chimeforchange.org
+  - DOMAIN-SUFFIX,gucci.cn
+  - DOMAIN-SUFFIX,gucci.com
+  - DOMAIN-SUFFIX,guccimuseo.com
+  - DOMAIN-SUFFIX,guccitimeless.com
+  - DOMAIN-SUFFIX,regiongold.com
   - DOMAIN-SUFFIX,nike
   - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,nike.com.br
@@ -3372,9 +3570,10 @@ payload:
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,maxgo.com
   - DOMAIN-SUFFIX,hulu.com
-  - DOMAIN-SUFFIX,huluim.com
-  - DOMAIN-SUFFIX,hulustream.com
   - DOMAIN-SUFFIX,huluad.com
+  - DOMAIN-SUFFIX,huluim.com
+  - DOMAIN-SUFFIX,huluqa.com
+  - DOMAIN-SUFFIX,hulustream.com
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imdb.to
   - DOMAIN-SUFFIX,media-imdb.com
@@ -3433,6 +3632,7 @@ payload:
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixiv.co.jp
   - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
@@ -3459,11 +3659,18 @@ payload:
   - DOMAIN-SUFFIX,yourfantasybeginsnow.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify-everywhere.com
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.design
   - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycharts.com
+  - DOMAIN-SUFFIX,spotifycodes.com
+  - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,playartifact.com
