@@ -133,6 +133,7 @@ host-suffix, office365.com, microsoft
 host-suffix, onedrive.com, microsoft
 host-suffix, onenote.com, microsoft
 host-suffix, onenote.net, microsoft
+host-suffix, onestore.ms, microsoft
 host-suffix, outlook.com, microsoft
 host-suffix, passport.net, microsoft
 host-suffix, powerappscdn.net, microsoft
@@ -176,3 +177,6 @@ host-suffix, xbox.com, microsoft
 host-suffix, xboxab.com, microsoft
 host-suffix, xboxlive.com, microsoft
 host-suffix, yammer.com, microsoft
+host, img-prod-cms-rt-microsoft-com.akamaized.net, microsoft
+host, mwf-service.akamaized.net, microsoft
+host, officecdn-microsoft-com.akamaized.net, microsoft

@@ -12,3 +12,7 @@ host-suffix, wikivoyage.org, wikimedia
 host-suffix, wiktionary.org, wikimedia
 host-suffix, wmfusercontent.org, wikimedia
 host-suffix, w.wiki, wikimedia
+host-suffix, toolforge.org, wikimedia
+host-suffix, wikimediacloud.org, wikimedia
+host-suffix, wmcloud.org, wikimedia
+host-suffix, wmflabs.org, wikimedia

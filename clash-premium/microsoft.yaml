@@ -134,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,passport.net
   - DOMAIN-SUFFIX,powerappscdn.net
@@ -177,3 +178,6 @@ payload:
   - DOMAIN-SUFFIX,xboxab.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+  - DOMAIN,mwf-service.akamaized.net
+  - DOMAIN,officecdn-microsoft-com.akamaized.net

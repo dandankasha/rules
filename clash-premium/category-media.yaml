@@ -15,6 +15,13 @@ payload:
   - DOMAIN-SUFFIX,yourtv.com.au
   - DOMAIN-SUFFIX,afp.com
   - DOMAIN-SUFFIX,afpforum.com
+  - DOMAIN-SUFFIX,ajplus.net
+  - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,aljazeera.net
+  - DOMAIN-SUFFIX,palestineremix.com
+  - DOMAIN-SUFFIX,sarajevopodopsadom.com
+  - DOMAIN-SUFFIX,srebrenica360.com
+  - DOMAIN-SUFFIX,syhacked.com
   - DOMAIN-SUFFIX,americasvoice.news
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,apnews.com
@@ -76,6 +83,23 @@ payload:
   - DOMAIN-SUFFIX,cnnpolitics.com
   - DOMAIN-SUFFIX,cup.com.hk
   - DOMAIN-SUFFIX,d100.net
+  - DOMAIN-SUFFIX,anm.co.uk
+  - DOMAIN-SUFFIX,dailym.ai
+  - DOMAIN-SUFFIX,dailymail.co.uk
+  - DOMAIN-SUFFIX,dailymail.com
+  - DOMAIN-SUFFIX,dailymail.com.au
+  - DOMAIN-SUFFIX,dailymail.dk
+  - DOMAIN-SUFFIX,dailymailonline.com
+  - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,mailhealth.com
+  - DOMAIN-SUFFIX,mailonline.co.uk
+  - DOMAIN-SUFFIX,mailonline.com
+  - DOMAIN-SUFFIX,mailonsunday.co.uk
+  - DOMAIN-SUFFIX,mailonsunday.ie
+  - DOMAIN-SUFFIX,metro.co.uk
+  - DOMAIN-SUFFIX,mol.im
+  - DOMAIN-SUFFIX,thisismoney.co.uk
+  - DOMAIN-SUFFIX,thismon.ee
   - DOMAIN-SUFFIX,dw.com
   - DOMAIN-SUFFIX,dajiyuan.com
   - DOMAIN-SUFFIX,dajiyuan.eu

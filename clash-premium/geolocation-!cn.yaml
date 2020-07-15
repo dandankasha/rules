@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.org
   - DOMAIN-SUFFIX,wireguard.com
   - DOMAIN-SUFFIX,zeronet.io
+  - DOMAIN-SUFFIX,1pondo.tv
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,avgle.com
   - DOMAIN-SUFFIX,avn.com
@@ -133,6 +134,8 @@ payload:
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,hegre.com
+  - DOMAIN-SUFFIX,heydoga.com
+  - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,hqporner.com
   - DOMAIN-SUFFIX,javbus.com
   - DOMAIN-SUFFIX,javfinder.sh
@@ -187,6 +190,13 @@ payload:
   - DOMAIN-SUFFIX,yourtv.com.au
   - DOMAIN-SUFFIX,afp.com
   - DOMAIN-SUFFIX,afpforum.com
+  - DOMAIN-SUFFIX,ajplus.net
+  - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,aljazeera.net
+  - DOMAIN-SUFFIX,palestineremix.com
+  - DOMAIN-SUFFIX,sarajevopodopsadom.com
+  - DOMAIN-SUFFIX,srebrenica360.com
+  - DOMAIN-SUFFIX,syhacked.com
   - DOMAIN-SUFFIX,americasvoice.news
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,apnews.com
@@ -248,6 +258,23 @@ payload:
   - DOMAIN-SUFFIX,cnnpolitics.com
   - DOMAIN-SUFFIX,cup.com.hk
   - DOMAIN-SUFFIX,d100.net
+  - DOMAIN-SUFFIX,anm.co.uk
+  - DOMAIN-SUFFIX,dailym.ai
+  - DOMAIN-SUFFIX,dailymail.co.uk
+  - DOMAIN-SUFFIX,dailymail.com
+  - DOMAIN-SUFFIX,dailymail.com.au
+  - DOMAIN-SUFFIX,dailymail.dk
+  - DOMAIN-SUFFIX,dailymailonline.com
+  - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,mailhealth.com
+  - DOMAIN-SUFFIX,mailonline.co.uk
+  - DOMAIN-SUFFIX,mailonline.com
+  - DOMAIN-SUFFIX,mailonsunday.co.uk
+  - DOMAIN-SUFFIX,mailonsunday.ie
+  - DOMAIN-SUFFIX,metro.co.uk
+  - DOMAIN-SUFFIX,mol.im
+  - DOMAIN-SUFFIX,thisismoney.co.uk
+  - DOMAIN-SUFFIX,thismon.ee
   - DOMAIN-SUFFIX,dw.com
   - DOMAIN-SUFFIX,dajiyuan.com
   - DOMAIN-SUFFIX,dajiyuan.eu
@@ -872,6 +899,9 @@ payload:
   - DOMAIN-SUFFIX,xda-cdn.com
   - DOMAIN-SUFFIX,xposed.info
   - DOMAIN-SUFFIX,yarnpkg.com
+  - DOMAIN-SUFFIX,acer-group.com
+  - DOMAIN-SUFFIX,acer.com
+  - DOMAIN-SUFFIX,acer.com.cn
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adobeaemcloud.com
@@ -1586,6 +1616,13 @@ payload:
   - DOMAIN-SUFFIX,igsonar.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,instagram-press.com
+  - DOMAIN-SUFFIX,aorus.com
+  - DOMAIN-SUFFIX,aoruszone.cn
+  - DOMAIN-SUFFIX,gigabyte.cn
+  - DOMAIN-SUFFIX,gigabyte.com
+  - DOMAIN,gigabyte2.azureedge.net
+  - DOMAIN,sa78gs.wpc.edgecastcdn.net
+  - DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,godaddy
@@ -2380,6 +2417,7 @@ payload:
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,passport.net
   - DOMAIN-SUFFIX,powerappscdn.net
@@ -2423,6 +2461,9 @@ payload:
   - DOMAIN-SUFFIX,xboxab.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+  - DOMAIN,mwf-service.akamaized.net
+  - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
@@ -2673,6 +2714,29 @@ payload:
   - DOMAIN-SUFFIX,twtrdns.net
   - DOMAIN-SUFFIX,uber.com
   - DOMAIN-SUFFIX,uber-assets.com
+  - DOMAIN-SUFFIX,g-technology.com
+  - DOMAIN-SUFFIX,sandisk.ae
+  - DOMAIN-SUFFIX,sandisk.it
+  - DOMAIN-SUFFIX,sandisk.cn
+  - DOMAIN-SUFFIX,sandisk.co.jp
+  - DOMAIN-SUFFIX,sandisk.co.kr
+  - DOMAIN-SUFFIX,sandisk.co.uk
+  - DOMAIN-SUFFIX,sandisk.com
+  - DOMAIN-SUFFIX,sandisk.com.au
+  - DOMAIN-SUFFIX,sandisk.com.br
+  - DOMAIN-SUFFIX,sandisk.com.tr
+  - DOMAIN-SUFFIX,sandisk.com.tw
+  - DOMAIN-SUFFIX,sandisk.de
+  - DOMAIN-SUFFIX,sandisk.es
+  - DOMAIN-SUFFIX,sandisk.fr
+  - DOMAIN-SUFFIX,sandisk.hk
+  - DOMAIN-SUFFIX,sandisk.id
+  - DOMAIN-SUFFIX,sandisk.in
+  - DOMAIN-SUFFIX,sandisk.nl
+  - DOMAIN-SUFFIX,sandisk.sg
+  - DOMAIN-SUFFIX,wd.com
+  - DOMAIN-SUFFIX,wdc.com
+  - DOMAIN-SUFFIX,westerndigital.com
   - DOMAIN-SUFFIX,yahoo
   - DOMAIN-SUFFIX,myguide.hk
   - DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -3780,6 +3844,10 @@ payload:
   - DOMAIN-SUFFIX,wiktionary.org
   - DOMAIN-SUFFIX,wmfusercontent.org
   - DOMAIN-SUFFIX,w.wiki
+  - DOMAIN-SUFFIX,toolforge.org
+  - DOMAIN-SUFFIX,wikimediacloud.org
+  - DOMAIN-SUFFIX,wmcloud.org
+  - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wto.org
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
