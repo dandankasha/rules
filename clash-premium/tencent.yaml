@@ -53,3 +53,10 @@ payload:
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,push.qq.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
+  - DOMAIN-SUFFIX,dns.pub
+  - DOMAIN-SUFFIX,dnsapi.cn
+  - DOMAIN-SUFFIX,dnspod.cn
+  - DOMAIN-SUFFIX,dnspod.com
+  - DOMAIN-SUFFIX,dnspod.com.cn
+  - DOMAIN-SUFFIX,dnspod.org
+  - DOMAIN-SUFFIX,doh.pub

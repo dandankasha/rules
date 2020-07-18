@@ -30,4 +30,4 @@ payload:
   - DOMAIN-SUFFIX,itunesradio.rio
   - DOMAIN-SUFFIX,itunesstore.co
   - DOMAIN-SUFFIX,itunesu.com
-  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+  - DOMAIN,itunes-apple.com.akadns.net

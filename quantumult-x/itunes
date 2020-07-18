@@ -29,4 +29,4 @@ host-suffix, itunesmatch.com, itunes
 host-suffix, itunesradio.rio, itunes
 host-suffix, itunesstore.co, itunes
 host-suffix, itunesu.com, itunes
-host-suffix, itunes-apple.com.akadns.net, itunes
+host, itunes-apple.com.akadns.net, itunes

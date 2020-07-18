@@ -1,0 +1,16 @@
+host-suffix, azure-dns.com, azure
+host-suffix, azure-dns.info, azure
+host-suffix, azure-dns.net, azure
+host-suffix, azure-dns.org, azure
+host-suffix, azure-mobile.net, azure
+host-suffix, azure-test.net, azure
+host-suffix, azure.cn, azure
+host-suffix, azure.com, azure
+host-suffix, azure.net, azure
+host-suffix, azurecomcdn.net, azure
+host-suffix, azurecontainer.io, azure
+host-suffix, azuredns-prd.info, azure
+host-suffix, azuredns-prd.org, azure
+host-suffix, azureedge-test.net, azure
+host-suffix, azureedge.net, azure
+host-suffix, azurewebsites.net, azure

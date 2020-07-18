@@ -1,0 +1,6 @@
+host-suffix, cisco, cisco
+host-suffix, cisco.com, cisco
+host-suffix, mediafiles-cisco.com, cisco
+host-suffix, static-cisco.com, cisco
+host, cisco.evergage.com, cisco
+host, ciscolivehls-i.akamaihd.net, cisco

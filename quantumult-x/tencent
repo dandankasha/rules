@@ -52,3 +52,10 @@ host-suffix, mpush.qq.com, tencent
 host-suffix, mtrace.qq.com, tencent
 host-suffix, push.qq.com, tencent
 host-suffix, pgdt.gtimg.cn, tencent
+host-suffix, dns.pub, tencent
+host-suffix, dnsapi.cn, tencent
+host-suffix, dnspod.cn, tencent
+host-suffix, dnspod.com, tencent
+host-suffix, dnspod.com.cn, tencent
+host-suffix, dnspod.org, tencent
+host-suffix, doh.pub, tencent

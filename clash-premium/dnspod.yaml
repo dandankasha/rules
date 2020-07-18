@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,dns.pub
+  - DOMAIN-SUFFIX,dnsapi.cn
+  - DOMAIN-SUFFIX,dnspod.cn
+  - DOMAIN-SUFFIX,dnspod.com
+  - DOMAIN-SUFFIX,dnspod.com.cn
+  - DOMAIN-SUFFIX,dnspod.org
+  - DOMAIN-SUFFIX,doh.pub
