@@ -2086,6 +2086,9 @@ payload:
   - DOMAIN-SUFFIX,ydstatic.com
   - DOMAIN-SUFFIX,yeah.net
   - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,analytics.163.com
+  - DOMAIN-SUFFIX,crash.163.com
+  - DOMAIN-SUFFIX,crashlytics.163.com
   - DOMAIN-SUFFIX,g.163.com
   - DOMAIN-SUFFIX,nga.cn
   - DOMAIN-SUFFIX,178.com

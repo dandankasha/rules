@@ -377,6 +377,9 @@ host-suffix, static.app.m.letv.com, category-ads
 host-suffix, decide.mixpanel.com, category-ads
 host-suffix, mopub.com, category-ads
 host-suffix, evt.mxplay.com, category-ads
+host-suffix, analytics.163.com, category-ads
+host-suffix, crash.163.com, category-ads
+host-suffix, crashlytics.163.com, category-ads
 host-suffix, g.163.com, category-ads
 host-suffix, ogury.com, category-ads
 host-suffix, presage.io, category-ads

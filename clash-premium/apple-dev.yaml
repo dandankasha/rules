@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,devimages-cdn.apple.com
+  - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+  - DOMAIN-SUFFIX,researchandcare.org
+  - DOMAIN-SUFFIX,webkit.org
+  - DOMAIN-SUFFIX,webkitgtk.org
+  - DOMAIN-SUFFIX,wpewebkit.org
+  - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+  - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+  - DOMAIN,p-events-delivery.akamaized.net

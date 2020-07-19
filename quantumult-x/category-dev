@@ -179,7 +179,10 @@ host-suffix, superuser.com, category-dev
 host-suffix, tex-talk.net, category-dev
 host-suffix, thesffblog.com, category-dev
 host-suffix, sublimetext.com, category-dev
+host-suffix, appleswift.com, category-dev
 host-suffix, swift.org, category-dev
+host-suffix, swiftui.cn, category-dev
+host-suffix, swiftui.com.cn, category-dev
 host-suffix, ubuntu.com, category-dev
 host-suffix, ubuntu.net, category-dev
 host-suffix, ubuntuforums.org, category-dev

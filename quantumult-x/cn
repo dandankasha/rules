@@ -2085,6 +2085,9 @@ host-suffix, qiyukf.com, cn
 host-suffix, ydstatic.com, cn
 host-suffix, yeah.net, cn
 host-suffix, youdao.com, cn
+host-suffix, analytics.163.com, cn
+host-suffix, crash.163.com, cn
+host-suffix, crashlytics.163.com, cn
 host-suffix, g.163.com, cn
 host-suffix, nga.cn, cn
 host-suffix, 178.com, cn

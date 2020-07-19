@@ -1,0 +1,12 @@
+host-suffix, developer.apple.com, apple-dev
+host-suffix, devimages-cdn.apple.com, apple-dev
+host-suffix, devstreaming-cdn.apple.com, apple-dev
+host-suffix, apple-mapkit.com, apple-dev
+host-suffix, playgrounds-cdn.apple.com, apple-dev
+host-suffix, researchandcare.org, apple-dev
+host-suffix, webkit.org, apple-dev
+host-suffix, webkitgtk.org, apple-dev
+host-suffix, wpewebkit.org, apple-dev
+host, appleworldwidedeveloper.hb-api.omtrdc.net, apple-dev
+host, appleworldwidedeveloper.sc.omtrdc.net, apple-dev
+host, p-events-delivery.akamaized.net, apple-dev

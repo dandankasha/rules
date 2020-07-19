@@ -2070,6 +2070,9 @@ host-suffix, qiyukf.com, geolocation-cn
 host-suffix, ydstatic.com, geolocation-cn
 host-suffix, yeah.net, geolocation-cn
 host-suffix, youdao.com, geolocation-cn
+host-suffix, analytics.163.com, geolocation-cn
+host-suffix, crash.163.com, geolocation-cn
+host-suffix, crashlytics.163.com, geolocation-cn
 host-suffix, g.163.com, geolocation-cn
 host-suffix, nga.cn, geolocation-cn
 host-suffix, 178.com, geolocation-cn

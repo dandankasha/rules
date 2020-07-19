@@ -25,6 +25,7 @@ host-suffix, coinbase.com, category-cryptocurrency
 host-suffix, coinone.co.kr, category-cryptocurrency
 host-suffix, coinonecore.com, category-cryptocurrency
 host-suffix, coinonecorp.com, category-cryptocurrency
+host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, devcon.org, category-cryptocurrency
 host-suffix, ethereum.foundation, category-cryptocurrency
 host-suffix, ethereum.org, category-cryptocurrency
