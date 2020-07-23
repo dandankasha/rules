@@ -1,0 +1,5 @@
+host-suffix, qiniu.com, qiniu
+host-suffix, qiniucdn.com, qiniu
+host-suffix, qiniudn.com, qiniu
+host-suffix, qiniudns.com, qiniu
+host-suffix, qnssl.com, qiniu

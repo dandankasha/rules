@@ -7,8 +7,9 @@ host-suffix, tweetdeck.com, twitter
 host-suffix, twimg.com, twitter
 host-suffix, twitpic.com, twitter
 host-suffix, twitter.com, twitter
+host-suffix, twitter.jp, twitter
+host-suffix, twitterinc.com, twitter
 host-suffix, twitteroauth.com, twitter
 host-suffix, twitterstat.us, twitter
-host-suffix, twitter.jp, twitter
-host-suffix, vine.co, twitter
 host-suffix, twtrdns.net, twitter
+host-suffix, vine.co, twitter

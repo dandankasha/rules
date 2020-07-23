@@ -1,5 +1,6 @@
 host-suffix, adobe.com, adobe
 host-suffix, adobe.io, adobe
+host-suffix, adobe.ly, adobe
 host-suffix, adobeaemcloud.com, adobe
 host-suffix, adobeaemcloud.net, adobe
 host-suffix, adobeccstatic.com, adobe
@@ -11,5 +12,6 @@ host-suffix, assetsadobe.com, adobe
 host-suffix, behance.net, adobe
 host-suffix, edgefonts.net, adobe
 host-suffix, omtrdc.net, adobe
+host, adobe.tt.omtrdc.net, adobe
 host-suffix, typekit.com, adobe
 host-suffix, typekit.net, adobe

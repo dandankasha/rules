@@ -7,7 +7,7 @@ import requests
 
 def data_reader(name):
     resp = requests.get(
-        "https://raw.githubusercontent.com/v2ray/domain-list-community/master/data/"+name).content.decode('utf-8')
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/"+name).content.decode('utf-8')
     domain_list = resp.split("\n")
 
     # 删除空白行
@@ -83,7 +83,7 @@ if __name__ == '__main__':
         path_name = "clash-premium/"
         if os.path.exists(path_name):
             [os.remove(path_name+x) for x in os.listdir(path_name)]
-    for domain_file in json.loads(requests.get("https://api.github.com/repos/v2ray/domain-list-community/contents/data/").content.decode("utf-8")):
+    for domain_file in json.loads(requests.get("https://api.github.com/repos/v2fly/domain-list-community/contents/data/").content.decode("utf-8")):
         domain_list = data_reader(domain_file["name"])
         if app_name == "qx":
             data_parser_qx(domain_list, domain_file["name"])

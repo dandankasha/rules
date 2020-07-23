@@ -5,7 +5,10 @@ host-suffix, github.community, github
 host-suffix, github.io, github
 host-suffix, githubapp.com, github
 host-suffix, githubassets.com, github
+host-suffix, githubhackathon.com, github
 host-suffix, githubstatus.com, github
 host-suffix, githubusercontent.com, github
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, github
 host-suffix, atom.io, github
+host-suffix, npmjs.com, github
+host-suffix, npm.community, github

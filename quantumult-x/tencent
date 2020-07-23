@@ -1,9 +1,12 @@
 host-suffix, apcdns.net, tencent
+host-suffix, cdn-go.cn, tencent
+host-suffix, cdntips.com, tencent
 host-suffix, foxmail.com, tencent
 host-suffix, foxmail.com.cn, tencent
 host-suffix, gtimg.cn, tencent
 host-suffix, gtimg.com, tencent
 host-suffix, gtimg.com.cn, tencent
+host-suffix, idqqimg.com, tencent
 host-suffix, imqq.com, tencent
 host-suffix, myapp.com, tencent
 host-suffix, myqcloud.com, tencent
@@ -16,6 +19,7 @@ host-suffix, qqmail.com, tencent
 host-suffix, qzone.com, tencent
 host-suffix, servicewechat.com, tencent
 host-suffix, smtcdns.com, tencent
+host-suffix, smtdns.net, tencent
 host-suffix, tencent.cn, tencent
 host-suffix, tencent.com, tencent
 host-suffix, tencent.com.cn, tencent
@@ -27,6 +31,7 @@ host-suffix, tencentyun.com, tencent
 host-suffix, tenpay.com, tencent
 host-suffix, wechat.com, tencent
 host-suffix, wegame.com, tencent
+host-suffix, wegame.com.cn, tencent
 host-suffix, weiyun.com, tencent
 host-suffix, ad.qq.com, tencent
 host-suffix, ad.qun.qq.com, tencent
